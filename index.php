@@ -80,4 +80,6 @@ $idcom=connexpdo("catalog", "myparam");
 	</div> <!-- contenuPage -->
 	
 </div> <!-- #page -->
-<?php include 'INC/footer.php'; ?>
+<?php
+ include 'INC/footer.php'; 
+ ?>
