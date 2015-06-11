@@ -6,4 +6,4 @@ if(!isset($_SESSION['login'])) {
   include('login.htm');
   exit;
 }
-?>
+
