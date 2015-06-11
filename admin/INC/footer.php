@@ -1,4 +1,4 @@
-
+<?php ?>
 <!-- FOOTER -->
 <footer>
 	<div class=" container clearfix">
