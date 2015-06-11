@@ -14,7 +14,6 @@ function connexpdo($base,$param)
         {
         echo "Echec de la connexion",$except->getMessage();
         return FALSE;
-        exit();
         }
 
 }
