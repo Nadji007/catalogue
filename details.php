@@ -11,8 +11,6 @@ $idcom=connexpdo("catalog", "myparam");
 
 	<section class="lastArticles boxArticles">
             <?php 
-               // include_once ('connexpdo.php');
-                 //$idcom=connexpdo("keley", "myparam");
                 if(isset($_GET['produit_id'])){
         
                    $produit_id = $_GET['produit_id'];
