@@ -107,6 +107,5 @@ $idcom=connexpdo("catalog", "myparam");
     
         }
         
-?>
-
-<?php include 'INC/footer.php';?>
+ 	include 'INC/footer.php';
+ ?>
