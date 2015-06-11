@@ -62,7 +62,8 @@ $idcom=connexpdo("catalog", "myparam");
 			
              }
             }
-			
+	
+	?>		
         
 			</section>
 			
@@ -74,5 +75,6 @@ $idcom=connexpdo("catalog", "myparam");
 	</div> <!-- contenuPage -->
 	
 </div> <!-- #page -->
+<?php
  include 'INC/footer.php'; 
 ?>
